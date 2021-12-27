@@ -16,6 +16,7 @@ Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instruc
 
 ## What's Next
 Send an email to cryptofromapro@gmail.com and send me the following:
+1. Your name
 1. Your Phantom wallet's public key
 1. Your token's desired image
 1. Your token's desired name
