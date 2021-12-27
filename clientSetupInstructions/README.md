@@ -17,8 +17,8 @@ Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instruc
 ## What's Next
 Send an email to cryptofromapro@gmail.com and send me the following:
 1. Your name
-1. Your Phantom wallet's public key
-1. Your token's desired image
-1. Your token's desired name
-1. Your token's desired ticker name
-1. How many tokens you want (ie ten billion)
+1. Your Phantom wallet's public key (ie: CNbCFr99JtaqQuZT1eVWgbxo5cGsLzij27vWQvxwRoDD)
+1. An image for your token 
+1. A name for your token (ie: Class Participation Coin)
+1. A ticket name for your token (ie: CPC)
+1. How many tokens you want (ie: 10,000,000,000)
