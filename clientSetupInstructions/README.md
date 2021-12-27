@@ -12,7 +12,7 @@ Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instruc
 1. Click through the remaining prompts to complete the setup process
 1. Pin the Phantom extension to Chrome by clicking the puzzle piece icon in the upper right corner of your browser <br><img src="3.png" width=300/>  
 1. Click Phantom's thumbtack icon to pin Phantom to Chrome <br><img src="4.png" width=300/>
-1. To obtain your public key, click the Phantom extension icon and click the string of characters to the right of "Wallet 1" <br><img src="5.png" width=300/>
+1. Copy your public key by opening the Phantom plugin and clicking the string of characters to the right of "Wallet 1" <br><img src="5.png" width=300/>
 
 ## What's Next
 Send an email to cryptofromapro@gmail.com and send me the following:
