@@ -1,2 +1,3 @@
 # Client Documentation
-Hosted client facing documentation
+
+Customer Setup Instructions: https://cryptofromapro.github.io/client-docs/clientSetupInstructions/
