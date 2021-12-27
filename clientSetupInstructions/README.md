@@ -1,5 +1,5 @@
 # Customer Setup Instructions
-In order to send you your custom tokens, please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instructions on how to obtain your public key on Chrome:
+Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instructions on how to obtain your public key on Chrome:
 
 ## Set Up Phantom & Obtain Your Public Key
 1. Go to https://phantom.app/
