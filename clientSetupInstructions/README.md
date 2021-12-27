@@ -15,10 +15,10 @@ Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instruc
 1. Copy your public key by opening the Phantom plugin and clicking the string of characters to the right of "Wallet 1" <br><img src="5.png" width=300/>
 
 ## What's Next
-Send an email to cryptofromapro@gmail.com and send me the following:
+Send an email to cryptofromapro@gmail.com and include the following:
 1. Your name
 1. Your Phantom wallet's public key (ie: CNbCFr99JtaqQuZT1eVWgbxo5cGsLzij27vWQvxwRoDD)
 1. An image for your token 
 1. A name for your token (ie: Class Participation Coin)
-1. A ticket name for your token (ie: CPC)
-1. How many tokens you want (ie: 10,000,000,000)
+1. A ticker symbol for your token (ie: CPC)
+1. How many tokens you want to be created (ie: 10,000,000,000)
