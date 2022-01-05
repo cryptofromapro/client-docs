@@ -1,5 +1,5 @@
 # Customer Setup Instructions
-Please set up a Phantom wallet and send me your **PUBLIC KEY**. Here are instructions on how to obtain your public key on Chrome:
+Please set up a Phantom wallet to receive your SPL tokens and send me your **PUBLIC KEY**. Here are instructions on how to obtain your public key on Chrome:
 
 ## Set Up Phantom & Obtain Your Public Key
 1. Go to https://phantom.app/
@@ -21,4 +21,6 @@ Send an email to cryptofromapro@gmail.com and include the following:
 1. An image for your token 
 1. A name for your token (ie: Class Participation Coin)
 1. A ticker symbol for your token (ie: CPC)
-1. How many tokens you want to be created (ie: 10,000,000,000)
+1. How many tokens you want to be created (Max: 18,000,000,000)
+
+Note: Token names and token ticker symbols must be unique on the Solana blockchain. If there are any issues with uniqueness I will email you.
